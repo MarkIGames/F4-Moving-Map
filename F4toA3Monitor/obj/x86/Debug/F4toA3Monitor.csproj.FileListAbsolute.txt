@@ -1,0 +1,27 @@
+C:\Users\M\AppData\Local\Temporary Projects\F4toA3Monitor\bin\Debug\F4toA3Monitor.exe
+C:\Users\M\AppData\Local\Temporary Projects\F4toA3Monitor\bin\Debug\F4toA3Monitor.pdb
+C:\Users\M\AppData\Local\Temporary Projects\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.Form1.resources
+C:\Users\M\AppData\Local\Temporary Projects\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.Properties.Resources.resources
+C:\Users\M\AppData\Local\Temporary Projects\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.csproj.GenerateResource.Cache
+C:\Users\M\AppData\Local\Temporary Projects\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.exe
+C:\Users\M\AppData\Local\Temporary Projects\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.pdb
+L:\F4toA3Monitor\F4toA3Monitor\F4toA3Monitor\bin\Debug\F4toA3Monitor.exe
+L:\F4toA3Monitor\F4toA3Monitor\F4toA3Monitor\bin\Debug\F4toA3Monitor.pdb
+L:\F4toA3Monitor\F4toA3Monitor\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.monitorUi.resources
+L:\F4toA3Monitor\F4toA3Monitor\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.Properties.Resources.resources
+L:\F4toA3Monitor\F4toA3Monitor\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.csproj.GenerateResource.Cache
+L:\F4toA3Monitor\F4toA3Monitor\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.exe
+L:\F4toA3Monitor\F4toA3Monitor\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.pdb
+L:\F4toA3Monitor\F4toA3Monitor\F4toA3Monitor\bin\Debug\intervalBeep.wav
+L:\F4toA3Monitor\F4toA3Monitor\F4toA3Monitor\bin\Debug\solidTone.wav
+L:\F4toA3Monitor\F4toA3Monitor\F4toA3Monitor\bin\Debug\MySql.Data.dll
+L:\F4toA3Monitor\F4toA3Monitor\F4toA3Monitor\bin\Debug\MySql.Data.Entity.dll
+L:\F4toA3Monitor\F4 Moving Map\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.exe
+L:\F4toA3Monitor\F4 Moving Map\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.pdb
+L:\F4toA3Monitor\F4 Moving Map\F4toA3Monitor\bin\Debug\F4toA3Monitor.exe
+L:\F4toA3Monitor\F4 Moving Map\F4toA3Monitor\bin\Debug\F4toA3Monitor.pdb
+L:\F4toA3Monitor\F4 Moving Map\F4toA3Monitor\bin\Debug\MySql.Data.dll
+L:\F4toA3Monitor\F4 Moving Map\F4toA3Monitor\bin\Debug\MySql.Data.Entity.dll
+L:\F4toA3Monitor\F4 Moving Map\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.monitorUi.resources
+L:\F4toA3Monitor\F4 Moving Map\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.Properties.Resources.resources
+L:\F4toA3Monitor\F4 Moving Map\F4toA3Monitor\obj\x86\Debug\F4toA3Monitor.csproj.GenerateResource.Cache
